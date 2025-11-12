@@ -1,10 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# not good enough, i need much more, it should be like a github doc but i want the initial config we did and then everything else
-
-Here is an extremely detailed, well-structured documentation-style guide covering your entire Docker Mailserver setup process, including initial configuration, all challenges encountered, and how each was solved. This is modeled as a comprehensive GitHub-style README documentation:
-
-***
 
 # Docker Mailserver Setup and Troubleshooting Guide for mail.raghavvram.online
 
@@ -208,48 +201,6 @@ openssl s_client -connect mail.raghavvram.online:1143 -starttls imap
 - Document your network and firewall configuration thoroughly for future maintenance.
 - Consider adding webmail services (e.g., RainLoop, Roundcube) separately if desired.
 
-***
-
-This guide compiles all steps, configurations, challenge resolutions, and testing procedures to get a fully functional, secure, and maintainable self-hosted mail server running on your custom domain and infrastructure.
-
-If you want, this can be formatted as Markdown suitable for GitHub README or extended with automation scripts and example config files.
-<span style="display:none">[^1][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^2][^20][^3][^4][^5][^6][^7][^8][^9]</span>
-
-<div align="center">⁂</div>
-
-[^1]: https://github.com/docker-mailserver/docker-mailserver
-
-[^2]: https://docker-mailserver.github.io/docker-mailserver/latest/
-
-[^3]: https://github.com/orgs/docker-mailserver/discussions/3965
-
-[^4]: https://github.com/jeboehm/docker-mailserver
-
-[^5]: https://docker-mailserver.github.io/docker-mailserver/latest/examples/tutorials/basic-installation/
-
-[^6]: https://www.ionos.com/digitalguide/e-mail/technical-matters/set-up-docker-mail-server/
-
-[^7]: https://github.com/docker-mailserver/docker-mailserver/issues/3648
-
-[^8]: https://github.com/technicalguru/docker-mailserver-roundcube
-
-[^9]: https://www.youtube.com/watch?v=kdH5eSo3_fY
-
-[^10]: https://docker-mailserver.github.io/docker-mailserver/latest/config/debugging/
-
-[^11]: https://flywp.com/blog/13079/self-host-email-with-docker-mailserver/
-
-[^12]: https://blog.l3zc.com/en/2024/09/docker-mailserver-deployment-recap/
-
-[^13]: https://forums.unraid.net/topic/122875-support-docker-mailserver/
-
-[^14]: https://hub.docker.com/r/nowsci/docker-mailserver
-
-[^15]: https://www.youtube.com/watch?v=NhoSOPGk3q0
-
-[^16]: https://smtpbd.com/docker-mail-server-for-testing-step-by-step-guide/
-
-[^17]: https://pkg.go.dev/github.com/scheidti/docker-mailserver-aliases
 
 [^18]: https://webshanks.com/setup-docker-mailserver-on-debian-12/
 

@@ -48,8 +48,6 @@ mkdir -p ./docker-data/mail-data ./docker-data/mail-state ./docker-data/mail-log
 ## 3. Docker Compose Configuration
 
 ```yaml
-version: "3.8"
-
 services:
   mailserver:
     image: ghcr.io/docker-mailserver/docker-mailserver:latest

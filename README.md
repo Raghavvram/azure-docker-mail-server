@@ -1,5 +1,5 @@
 
-# Docker Mailserver Setup and Troubleshooting Guide for mail.raghavvram.online
+# Docker Mailserver Setup and Troubleshooting Guide
 
 ## Overview
 

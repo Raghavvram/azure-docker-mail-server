@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # how to set up docker mail server, give me a detailed step by step layman guide to setup the entire thing and make it work properly without any issues or errors
 
 To set up a Docker Mail Server properly and make it work without errors, here's a detailed step-by-step layman guide covering installation, configuration, security, DNS setup, and email client integration.
